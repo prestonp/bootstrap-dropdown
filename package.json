@@ -1,0 +1,42 @@
+{
+  "name": "bootstrap-dropdown",
+  "version": "0.2.1",
+  "description": "Bootstrap Dropdown jQuery Plugin",
+  "homepage": "http://bxslider.com",
+  "keywords": [
+    "jquery",
+    "bootstrap",
+    "ui"
+  ],
+  "categories": [
+    "UI",
+    "DOM",
+    "Effects"
+  ],
+  "jam": {
+    "dependencies": {
+      "jquery": ">1.4.2"
+    },
+    "main": "index.js"
+  },
+  "maintainers": [
+    {
+      "name": "Kevin Rockwood",
+      "email": "kevin@rockwood.me",
+      "web": "http://www.rockwood.me" 
+    }
+  ],
+  "licenses": [
+    {
+      "type": "APACHE",
+      "url": "https://raw.github.com/twitter/bootstrap/master/LICENSE"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git", 
+      "url": "https://github.com/twitter/bootstrap.git"
+    }
+  ],
+  "github": "https://github.com/rockwood/jam-affix.git"
+}
